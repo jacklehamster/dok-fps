@@ -1,0 +1,27 @@
+{
+  "name": "dok-fps",
+  "version": "1.0.0",
+  "description": "Calculate frame per second",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacklehamster/dok-fps.git"
+  },
+  "keywords": [
+    "dok",
+    "fps"
+  ],
+  "author": "Vincent Le Quang <vincentlequang@gmail.com> (https://jacklehamster.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacklehamster/dok-fps/issues"
+  },
+  "homepage": "https://github.com/jacklehamster/dok-fps#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "jest": "^26.0.1"
+  }
+}
